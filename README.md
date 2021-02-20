@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+> My name is Christian Dimitri, I am an architect and a computational designer, currently based in Barcelona, 
+> I use coding and algorithms daily to solve problems and automize systems for architects and civil engineers,
+> I am currently working as a computational designer and parameteric specialist at Arque Structures in Barcelona, I daily develop tools and algorithms to automize there structural systems.
+
+
 
 <!--
 **christiandimitri/christiandimitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
