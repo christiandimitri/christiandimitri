@@ -8,10 +8,14 @@
 
 French - English - Arabic - Spanish
 
-## I use daily
+## I code in
 
-I think you should use an
-`<addr>` element here instead.
+Csharp - Javascript - Python
+
+## I use
+
+Vuejs - Okta - Heroku - Github - Node.js - sass
+
 
 
 <!--
