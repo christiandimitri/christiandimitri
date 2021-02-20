@@ -2,8 +2,16 @@
 
 > My name is Christian Dimitri, I am an architect and a computational designer, currently based in Barcelona, 
 > I use coding and algorithms daily to solve problems and automize systems for architects and civil engineers,
-> I am currently working as a computational designer and parameteric specialist at Arque Structures in Barcelona, I daily develop tools and algorithms to automize there structural systems.
+> I am currently working as a computational designer and a parameteric specialist at Arque Structures in Barcelona, I daily develop tools and algorithms to automize there structural systems.
 
+## I Speak
+
+French - English - Arabic - Spanish
+
+## I use daily
+
+I think you should use an
+`<addr>` element here instead.
 
 
 <!--
