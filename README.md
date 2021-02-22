@@ -16,6 +16,8 @@ Csharp - Javascript - Python
 
 Vuejs - Okta - Heroku - Github - Node.js - sass
 
+## I am currently developping:
+
 
 
 <!--
