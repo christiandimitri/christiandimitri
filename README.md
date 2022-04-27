@@ -14,7 +14,7 @@ Csharp - Javascript - Python
 
 ## I use
 
-Vuejs - Okta - Heroku - Github - Node.js - sass
+Vuejs - Okta - Heroku - Netlify - Github - Node.js - sass
 
 ## 🔭 I’m currently working on:
 - A C# library to generate metal structure warehouses, it uses Rhino SDK geometry library, and compiled to grasshopper as a custom plugin for Arqué Structures
