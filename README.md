@@ -18,7 +18,9 @@ Vuejs - Okta - Heroku - Netlify - Github - Node.js - sass
 
 ## 🔭 I’m currently working on:
 - A C# library to generate metal structure warehouses, it uses Rhino SDK geometry library, and compiled to grasshopper as a custom plugin for Arqué Structures
-- Cloud base application using Shapediver's API to stream parameteric 3D models from grasshopper to the web, "Arqué Spatial Systems Paremetric UI"
+- Cloud base application using Shapediver's API to stream parameteric 3D models from grasshopper to the web, clients:
+  - "Arqué Spatial Systems Paremetric UI"
+  - "Construsoft"
 - Web dev for artists's blog and E-commerce
 - Collaborating in Paramdgima's computational deisgn geometry library
 
