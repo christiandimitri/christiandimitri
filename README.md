@@ -21,10 +21,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <a href="https://twitter.com/christiandimitri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/chrisdimitri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://discord.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="30" /></a>
-  <a href="https://telegram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
   <a href="https://chrisdimi.me/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
 </p>
 <br>
@@ -37,7 +34,7 @@
 
 <p>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C#"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
