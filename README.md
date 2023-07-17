@@ -85,43 +85,6 @@
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
 </p>
 
-<h2>📚 Education and Certifications</h2>
-
-- **Masters of Parametric Design** - Universitat Politècnica de Catalunya (2017-2018)
-- **Bachelor and Masters in Science for Architectural Studies** - USEK (2009-2016)
-- **Tekla Structures Certification** - Trimble, Construsoft Spain (December 2021-February 2022)
-
-<h2>🌟 Job Experience</h2>
-
-<h3>BIM Developer - e-verse (August 2022 - July 2023)</h3>
-- Consistently delivered projects on time and received excellent client reviews.
-- Developed plugins and enhanced project efficiency using Autocad/Civil3D, NWD, and other relevant software.
-- Followed the SCRUM methodology for effective project management.
-- Developed a solar farm layout plugin for a client, showcasing technical skills and meeting client requirements.
-
-<h3>Software Developer - Grasshopper, Tekla - Mule Studio (October 2022 - November 2022)</h3>
-- Focused on automating drawings in Tekla and Grasshopper by leveraging API integration.
-- Streamlined the drawing automation process using Grasshopper and Tekla to ensure efficiency and accuracy.
-- Contributed to the automation project for the Guggenheim UAE, honing skills in Grasshopper and Tekla.
-
-<h3>Software Developer - Grasshopper - Parametric Monkey (March 2022 - June 2022)</h3>
-- Transitioned a Grasshopper-based proof-of-concept (POC) algorithm into a scalable application.
-- Contributed to the development of the algorithm in .NET and assisted in writing code using Grasshopper.
-- Enhanced expertise in parametric modeling and software development.
-
-<h3>Parametric Specialist - Estructuras Arqué (August 2020 - May 2022)</h3>
-- Automated structural processes using software tools such as Tekla, Grasshopper, and Shapediver.
-- Enhanced the efficiency and accuracy of structural design and analysis through programming skills.
-- Contributed to innovative solutions in the field of parametric design.
-
-<h3>Computational Design Internship - Noumena (October 2018 - March 2019)</h3>
-- Actively participated in a range of digital fabrication projects using Grasshopper3D and 3D printers.
-- Collaborated with a diverse team of designers and engineers to realize cutting-edge designs and explore innovative fabrication techniques.
-
-<h3>Digital Fabrication Internship - Marbres de France (September 2016 - March 2017)</h3>
-- Designed and replicated sculptural designs using 3D Studio Max, 3D scanning, and the KUKA Robot.
-- Gained a comprehensive understanding of the digital fabrication process, from design creation to physical realization.
-
 <h2>🌐 Languages</h2>
 
 <p>
@@ -131,16 +94,10 @@
   <a href="#"><img alt="Arabic" src="https://img.shields.io/badge/Arabic-05204A?logoColor=fff&style=flat"></a>
 </p>
 
-<h2>📢 Projects</h2>
+<h2>📢 Contributions</h2>
 
 - Arque Spatial Frames: Parametric app
 - Optinave: Structure analysis Cloud app
 - Hydra: Solar Tool Cloud app
 - Pris: NWD Select By Revit ID addin
 - Vero: NWD Viewpoint By Level addin
-
-<h2>🌍 Projects I worked on in the past:</h2>
-
-- [Project 1](project1_link)
-- [Project 2](project2_link)
-- [Project 3](project3_link)
