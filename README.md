@@ -27,8 +27,6 @@
 <br>
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chrisdimi.me/)](https://chrisdimi.me/)
-![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
-![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
