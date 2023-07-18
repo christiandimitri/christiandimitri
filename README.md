@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=1500&color=E97451&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Christian+Dimitri" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1400&pause=1000&color=F4BB44&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Transforming+the+AEC industry;+With+Precision+and+Innovation" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=1000&color=E97451&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Christian+Dimitri" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1400&pause=1500&color=F4BB44&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Transforming+the+AEC industry;+With+Precision+and+Innovation" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p>
