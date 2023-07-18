@@ -78,7 +78,8 @@
   <a href="#"><img alt="Javascript/HTML/CSS/SCSS" src="https://img.shields.io/badge/Javascript/HTML/CSS/SCSS-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Compute-005DAA?logo=rhinocompute&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="RhinoCommon" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>>
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
 </p>
 
