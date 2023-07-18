@@ -55,7 +55,7 @@
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white"></a>
 </p>
 
 <h2>💻 Software and Tools</h2>
