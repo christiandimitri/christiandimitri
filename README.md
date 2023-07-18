@@ -67,7 +67,7 @@
   <a href="#"><img alt="Civil3D API" src="https://img.shields.io/badge/Civil3D%20API-0191D8?logo=autodesk&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Unity API" src="https://img.shields.io/badge/Unity%20API-000?logo=unity&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Shapediver API" src="https://img.shields.io/badge/Shapediver%20API-FF7A16?logo=shapediver&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Rhino/Grasshopper API" src="https://img.shields.io/badge/Rhino%2FGrasshopper%20API-8A6F34?logo=rhinoceros&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="RhinoCommon/GrasshopperSDK" src="https://img.shields.io/badge/Rhino%2FGrasshopper%20API-8A6F34?logo=rhinoceros&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Speckle Systems" src="https://img.shields.io/badge/Speckle%20Systems-1B2741?logo=specklesystems&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-0095D5?logo=.net&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
@@ -79,7 +79,6 @@
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="RhinoCommon" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>>
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
 </p>
 
