@@ -67,7 +67,6 @@
   <a href="#"><img alt="RhinoCommon/GrasshopperSDK" src="https://img.shields.io/badge/Rhino%2FGrasshopper%20API-8A6F34?logo=rhinoceros&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Speckle Systems" src="https://img.shields.io/badge/Speckle%20Systems-1B2741?logo=specklesystems&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-0095D5?logo=.net&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Compute-005DAA?logo=rhinocompute&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Inside" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
