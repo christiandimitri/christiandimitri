@@ -74,7 +74,8 @@
   <a href="#"><img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-5C2D91?logo=.net&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Javascript/HTML/CSS/SCSS" src="https://img.shields.io/badge/Javascript/HTML/CSS/SCSS-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>  
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/threejs-181717?logo=three&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/three.js-ffffff?logo=three.js&logoColor=000&style=flat"></a>
+  <a href="#"><img alt="aframe" src="https://img.shields.io/badge/aframe-ef2d5e?logo=aframe&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
