@@ -15,8 +15,8 @@
 - 💻 Specializing in **parametric design** for the architecture, engineering, and construction industry.
 - 🌱 Currently focusing on **software development**, **parametric design**, and staying up-to-date with the latest technologies.
 - 🤔 My hobbies include **collecting vinyls**, reading **constructif books**, exploring the latest technology for construction, spending time with my cats Java and Python, skiing in winter, and enjoying afterwork beers.
-- 📝 Sometimes I write articles on my **[personal website](https://chrisdimi.me/)**.
-- 📞 You can reach me at **(34) 623 196 662** or via email at **contact@chrisdimi.me**.
+- 📝 Sometimes I write articles on my **[personal website](christian.j.dimitrii@gmail.com)**.
+- 📞 You can reach me at **(34) 623 196 662** or via email at **christian.j.dimitrii@gmail.com**.
 - 📍 Located in **Spain, Barcelona, Passatge Klein 21 Bajos, 08020**.
 
 <h3 align="left">📫 How to reach me:</h3>
