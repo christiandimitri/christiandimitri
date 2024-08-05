@@ -99,6 +99,6 @@
 - Vero: NWD Viewpoint By Level addin
 
 <h2>👨‍💼 Current Work</h2>
-- Currently working as a <strong>freelance BIM software developer</strong>, collaborating with <strong>Check2Build</strong> and <strong>Monstar Lab</strong>.
-- At <strong>Check2Build</strong>, a digital solution for quality assurance in construction (prop tech), I developed the viewer using <strong>ifcjs</strong> that opens components.
+- Currently working as a <strong>freelance BIM software developer</strong>, collaborating with <strong>Check2Build</strong> and <strong>Monstar Lab</strong>.\n
+- At <strong>Check2Build</strong>, a digital solution for quality assurance in construction (prop tech), I developed the viewer using <strong>ifcjs</strong> that opens components.\n
 - With <strong>Monstar Lab</strong>, I am working on a <strong>ML/AI solution in Civil3D</strong>.
