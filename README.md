@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=1000&color=E97451&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Christian+Dimitri;+Transforming+the+AEC industry;+With+Precision+and+Innovation" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=1000&color=E97451&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Christian+Dimitri;+Transforming+the+AEC+Industry;+With+Precision+and+Innovation" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p>
@@ -14,7 +14,7 @@
 - 🎓 I am a **software developer** with a background in **architecture**.
 - 💻 Specializing in **parametric design** for the architecture, engineering, and construction industry.
 - 🌱 Currently focusing on **software development**, **parametric design**, and staying up-to-date with the latest technologies.
-- 🤔 My hobbies include **collecting vinyls**, reading **constructif books**, exploring the latest technology for construction, spending time with my cats Java and Python, skiing in winter, and enjoying afterwork beers.
+- 🤔 My hobbies include **collecting vinyls**, reading **constructive books**, exploring the latest technology for construction, spending time with my cats Java and Python, skiing in winter, and enjoying afterwork beers.
 - 📝 Sometimes I write articles on my **[personal website](christian.j.dimitrii@gmail.com)**.
 - 📞 You can reach me at **(34) 623 196 662** or via email at **christian.j.dimitrii@gmail.com**.
 - 📍 Located in **Spain, Barcelona, Passatge Klein 21 Bajos, 08020**.
@@ -58,6 +58,7 @@
 <h2>💻 Software and Tools</h2>
 
 <p>
+  <a href="#"><img alt="ifc.js" src="https://img.shields.io/badge/@thatopen?logo=@thatopen&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Autocad API" src="https://img.shields.io/badge/Autocad%20API-964B00?logo=autocad&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Navisworks API" src="https://img.shields.io/badge/Navisworks%20API-007AC9?logo=autodesk&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Tekla Structures API" src="https://img.shields.io/badge/Tekla%20Structures%20API-FF8D00?logo=tekla&logoColor=fff&style=flat"></a>
@@ -96,3 +97,8 @@
 - Hydra: Solar Tool Cloud app
 - Pris: NWD Select By Revit ID addin
 - Vero: NWD Viewpoint By Level addin
+
+<h2>👨‍💼 Current Work</h2>
+- Currently working as a **freelance BIM software developer**, collaborating with **Check2Build** and **Monstar Lab**.
+- At **Check2Build**, a digital solution for quality assurance in construction (prop tech), I developed the viewer using **ifcjs** that opens components.
+- With **Monstar Lab**, I am working on a **ML/AI solution in Civil3D**.
