@@ -72,7 +72,6 @@
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-006DB7?logo=react&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🌐 Languages</h2>
