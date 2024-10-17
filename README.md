@@ -51,7 +51,7 @@
 <h2>💻 Software and Tools</h2>
 
 <p>
-  <a href="#"><img alt="ifc.js" src="https://img.shields.io/badge/@thatopen?logo=@thatopen&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="ifc.js" src="https://img.shields.io/badge/ifcjs?logo=ifcjs&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Autocad API" src="https://img.shields.io/badge/Autocad%20API-964B00?logo=autocad&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Navisworks API" src="https://img.shields.io/badge/Navisworks%20API-007AC9?logo=autodesk&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Tekla Structures API" src="https://img.shields.io/badge/Tekla%20Structures%20API-FF8D00?logo=tekla&logoColor=fff&style=flat"></a>
