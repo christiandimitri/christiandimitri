@@ -40,13 +40,6 @@
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 </p>
 
-<h2>🧰 Frameworks and Libraries</h2>
-
-<p>
-  <a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-  <a href="https://vuejs.com/"><img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat"></a>
-</p>
-
 <h2>🗄️ Databases and Cloud Hosting</h2>
 
 <p>
