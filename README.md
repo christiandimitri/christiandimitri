@@ -77,6 +77,7 @@
   <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/three.js-ffffff?logo=three.js&logoColor=000&style=flat"></a>
   <a href="#"><img alt="aframe" src="https://img.shields.io/badge/aframe-ef2d5e?logo=aframe&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-006DB7?logo=react&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
 </p>
