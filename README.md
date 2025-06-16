@@ -57,7 +57,7 @@ I'm **Christian Dimitri**, a software developer with a background in **architect
 
 ---
 
-### 🛠️ Recent Projects
+### 🛠️ Old Projects
 
 - **Hydra** – Interactive solar tool built on web tech and IFC viewers.
 - **Arque** – Parametric configurator for modular spatial systems.
