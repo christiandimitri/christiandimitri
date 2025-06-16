@@ -1,97 +1,90 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=1000&color=E97451&background=000000EE&center=true&multiline=true&width=1920&height=420&lines=;+Christian+Dimitri;+Transforming+the+AEC+Industry;+With+Precision+and+Innovation" alt="Typing SVG" /></a>
+  <img src="https://github.com/user-attachments/assets/3d2d1750-d5fe-4c1a-9542-e7d29e18888f" alt="Header" />
 </h1>
-<br>
-<p>
-  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I'm a skilled software developer with a background in architecture, specializing in parametric design for the architecture, engineering, and construction industry. With a proven track record of delivering projects on time and optimizing efficiency through the development of plugins and automation tools, I have garnered excellent client feedback. Proficient in Autocad/Civil3D, Rhino/Grasshopper, and Tekla, I have a strong grasp of software integration and a passion for staying at the forefront of the latest technology. With a master's degree in Parametric Design in Architecture and a solid foundation in both creative and technical aspects, I bring a unique blend of architectural expertise and programming skills to my work. I am driven by a desire to inspire creativity, leverage computational methods, and push the boundaries of innovative architectural design.
+
+
+<p align="center">
+  <em>BIM Software Developer blending code and design to shape the future of the built environment.</em>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Talking about Personal Stuffs:
+---
 
-- 🎓 I am a **software developer** with a background in **architecture**.
-- 💻 Specializing in **parametric design** for the architecture, engineering, and construction industry.
-- 🌱 Currently focusing on **software development**, **parametric design**, and staying up-to-date with the latest technologies.
-- 🤔 My hobbies include **collecting vinyls**, reading **constructive books**, exploring the latest technology for construction, spending time with my cats Java and Python, skiing in winter, and enjoying afterwork beers.
-- 📝 Sometimes I write articles on my **[personal website](christian.j.dimitrii@gmail.com)**.
-- 📞 You can reach me at **(34) 623 196 662** or via email at **christian.j.dimitrii@gmail.com**.
-- 📍 Located in **Spain, Barcelona, Passatge Klein 21 Bajos, 08020**.
+### 👋 About Me
 
-<h3 align="left">📫 How to reach me:</h3>
+I'm **Christian Dimitri**, a software developer with a background in **architecture** and a Master’s in **Parametric Design**. I specialize in creating custom solutions for the **AEC industry**, integrating cutting-edge tools like **Three.js**, **RhinoCommon**, **AutoCAD API**, and **Unity**, with a focus on automation, viewer systems, and cross-platform interoperability.
+
+🚀 I currently work at:
+
+- **Check2Build** – developing powerful inspection and QA tools using **ifc.js**, **React**, and WebGL.
+- **Monstar Lab** – building AI-driven tools for **Civil3D** and infrastructure analytics.
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 💡 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+#### 🛠️ Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0095D5?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js)
+![aframe](https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=aframe)
+
+#### 🏗️ AEC APIs & Platforms
+![AutoCAD](https://img.shields.io/badge/AutoCAD_API-CC0000?style=flat&logo=autodesk&logoColor=white)
+![Civil3D](https://img.shields.io/badge/Civil3D_API-0191D8?style=flat&logo=autodesk)
+![Revit](https://img.shields.io/badge/Revit_API-006DB7?style=flat&logo=autodesk)
+![RhinoCommon](https://img.shields.io/badge/RhinoCommon-8A6F34?style=flat&logo=rhinoceros)
+![Grasshopper SDK](https://img.shields.io/badge/Grasshopper_SDK-6C8E4D?style=flat&logo=rhinoceros)
+![Rhino.Inside](https://img.shields.io/badge/Rhino.Inside-222222?style=flat&logo=rhinoceros)
+![Rhino.Compute](https://img.shields.io/badge/Rhino.Compute-005DAA?style=flat&logo=rhinocompute)
+![ifc.js](https://img.shields.io/badge/ifc.js-000000?style=flat&logo=three.js)
+![Tekla API](https://img.shields.io/badge/Tekla_Structures_API-FF8D00?style=flat&logo=tekla)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Speckle](https://img.shields.io/badge/Speckle-1B2741?style=flat&logo=specklesystems&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-007AC9?style=flat&logo=autodesk&logoColor=white)
+![Shapediver](https://img.shields.io/badge/Shapediver_API-FF7A16?style=flat)
+
+---
+
+### 🛠️ Recent Projects
+
+- **Hydra** – Interactive solar tool built on web tech and IFC viewers.
+- **Arque** – Parametric configurator for modular spatial systems.
+- **Pris** – Revit/Civil3D interoperability for NWD model data.
+- **Vero** – QA tool for Navisworks + Revit Viewpoint inspection.
+- **Optinave** – Naval structure cloud analysis.
+
+---
+
+### 🌍 Languages I Speak
+
+![English](https://img.shields.io/badge/English-native?style=flat)
+![French](https://img.shields.io/badge/French-fluent?style=flat)
+![Spanish](https://img.shields.io/badge/Spanish-fluent?style=flat)
+![Arabic](https://img.shields.io/badge/Arabic-native?style=flat)
+
+---
+
+### 🤝 Let’s Collaborate
+
 <p align="left">
-  <a href="https://linkedin.com/in/chrisdimitri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://chrisdimi.me/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
-</p>
-<br>
-
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chrisdimi.me/)](https://chrisdimi.me/)
-
-<h2>👨‍💻 Programming and Markup Languages</h2>
-
-<p>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/Csharp%20-8A2BE2"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-  <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
+  <a href="https://linkedin.com/in/chrisdimitri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"></a>
+  <a href="https://chrisdimi.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white" height="28"></a>
+  <a href="mailto:christian.j.dimitrii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28"></a>
 </p>
 
-<h2>🗄️ Databases and Cloud Hosting</h2>
+---
 
-<p>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white&style=flat"></a>
-</p>
-
-<h2>💻 Software and Tools</h2>
-
-<p>
-  <a href="#"><img alt="ifc.js" src="https://img.shields.io/badge/ifcjs?logo=ifcjs&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Autocad API" src="https://img.shields.io/badge/Autocad%20API-964B00?logo=autocad&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Navisworks API" src="https://img.shields.io/badge/Navisworks%20API-007AC9?logo=autodesk&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Tekla Structures API" src="https://img.shields.io/badge/Tekla%20Structures%20API-FF8D00?logo=tekla&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Civil3D API" src="https://img.shields.io/badge/Civil3D%20API-0191D8?logo=autodesk&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Unity API" src="https://img.shields.io/badge/Unity%20API-000?logo=unity&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Shapediver API" src="https://img.shields.io/badge/Shapediver%20API-FF7A16?logo=shapediver&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="RhinoCommon/GrasshopperSDK" src="https://img.shields.io/badge/Rhino%2FGrasshopper%20API-8A6F34?logo=rhinoceros&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Speckle Systems" src="https://img.shields.io/badge/Speckle%20Systems-1B2741?logo=specklesystems&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-0095D5?logo=.net&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Compute-005DAA?logo=rhinocompute&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Revit" src="https://img.shields.io/badge/Revit-006DB7?logo=autodesk&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Rhino.Inside" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-5C2D91?logo=.net&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Javascript/HTML/CSS/SCSS" src="https://img.shields.io/badge/Javascript/HTML/CSS/SCSS-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>  
-  <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/three.js-ffffff?logo=three.js&logoColor=000&style=flat"></a>
-  <a href="#"><img alt="aframe" src="https://img.shields.io/badge/aframe-ef2d5e?logo=aframe&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-006DB7?logo=react&logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Rhino.Compute" src="https://img.shields.io/badge/Rhino.Inside-222222?logo=rhinoceros&logoColor=fff&style=flat"></a>
-</p>
-
-<h2>🌐 Languages</h2>
-
-<p>
-  <a href="#"><img alt="English" src="https://img.shields.io/badge/English-2B5D8D?logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="French" src="https://img.shields.io/badge/French-1F468E?logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Spanish" src="https://img.shields.io/badge/Spanish-D56637?logoColor=fff&style=flat"></a>
-  <a href="#"><img alt="Arabic" src="https://img.shields.io/badge/Arabic-05204A?logoColor=fff&style=flat"></a>
-</p>
-
-<h2>📢 Contributions</h2>
-
-- Arque Spatial Frames: Parametric app
-- Optinave: Structure analysis Cloud app
-- Hydra: Solar Tool Cloud app
-- Pris: NWD Select By Revit ID addin
-- Vero: NWD Viewpoint By Level addin
-
-<h2>👨‍💼 Current Work</h2>
-<p>- Currently working as a <strong>freelance BIM software developer</strong>, collaborating with <strong>Check2Build</strong> and <strong>Monstar Lab</strong></p>
-<p>- At <strong>Check2Build</strong>, a digital solution for quality assurance in construction (prop tech), I developed the viewer using <strong>ifcjs</strong> that opens components.</p>
-<p>- With <strong>Monstar Lab</strong>, I am working on a <strong>ML/AI solution in Civil3D</strong>.</p>
+> _"I build tools that empower creators, streamline workflows, and bring AEC data to life."_  
+> — Christian Dimitri
