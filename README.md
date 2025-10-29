@@ -16,7 +16,7 @@ I'm **Christian Dimitri**, a software developer with a background in **architect
 
 🚀 I currently work at:
 
-- **Check2Build** – developing powerful inspection and QA tools using **ifc.js**, **React**, and WebGL.
+- **Check2Build** – developing powerful inspection and construction Quality and Assurance saas tools using **ifc.js**, **React**, and WebGL and reality capture
 - **Monstar Lab** – building AI-driven tools for **Civil3D** and infrastructure analytics.
 
 ---
